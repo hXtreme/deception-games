@@ -1,0 +1,12 @@
+/***
+ *   Styling for custom classes.
+ */
+
+
+.page-title {
+  text-align: center;
+  padding-top: 0.1em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eee;
+  font-size: 1.5em;
+}
