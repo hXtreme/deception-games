@@ -1,5 +1,5 @@
 /***
- *    Stylesheet that goes along with classes card-grid, card.
+ *    Stylesheet that goes along with classes card-grid, card, card-title.
  */
 
 .card-grid {
@@ -15,10 +15,10 @@
   padding-bottom: 3em;
   min-width: 21em;
   text-align: center;
+  border: 1px solid rgba(0,0,0,0.2);
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-  transition: 0.3s;
 }
 
-.card:hover {
-  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+.card-title {
+  font-size: 1.2em;
 }
