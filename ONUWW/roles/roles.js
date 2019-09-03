@@ -57,8 +57,8 @@ const roles =
 	},
 
 	{
-		'name': 'Seer',
-		'img': 'Seer.png',
+		'name': 'Insomniac',
+		'img': 'Insomniac.png',
 		'team': 'Town',
 		'win-condition': 'Kill a Werewolf',
 		'power': 'Sees own card'
